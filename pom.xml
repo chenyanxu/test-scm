@@ -4,7 +4,7 @@
 
     <groupId>com.kalix.scmtest</groupId>
     <artifactId>test-scm</artifactId>
-    <version>1.6.0</version>
+    <version>1.6.1-SNAPSHOT</version>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -13,7 +13,7 @@
     <scm>
         <connection>scm:git:https://github.com/chenyanxu/test-scm.git</connection>
         <developerConnection>scm:git:https://github.com/chenyanxu/test-scm.git</developerConnection>
-    <tag>test-scm-1.6.0</tag>
+    <tag>HEAD</tag>
   </scm>
     <dependencies>
         <dependency>
