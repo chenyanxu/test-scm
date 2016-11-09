@@ -4,12 +4,12 @@
 
     <groupId>com.kalix.scmtest</groupId>
     <artifactId>test-scm</artifactId>
-    <version>1.5-SNAPSHOT</version>
+    <version>1.5</version>
 
     <scm>
         <connection>scm:git:https://github.com/chenyanxu/test-scm.git</connection>
         <developerConnection>scm:git:https://github.com/chenyanxu/test-scm.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>tsssss</tag>
   </scm>
     <dependencies>
         <dependency>
