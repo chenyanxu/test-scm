@@ -4,7 +4,7 @@
 
     <groupId>com.kalix.scmtest</groupId>
     <artifactId>test-scm</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.2-SNAPSHOT</version>
 
     <scm>
         <connection>scm:git:https://github.com/chenyanxu/test-scm.git</connection>
